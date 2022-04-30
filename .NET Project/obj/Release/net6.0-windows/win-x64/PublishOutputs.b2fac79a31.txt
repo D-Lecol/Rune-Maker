@@ -1,0 +1,4 @@
+C:\Users\colin\source\repos\WinFormsApp1\rune_maker\bin\publish\rune_maker.pdb
+C:\Users\colin\source\repos\WinFormsApp1\rune_maker\bin\publish\sni.dll
+C:\Users\colin\source\repos\WinFormsApp1\rune_maker\bin\publish\SQLite.Interop.dll
+C:\Users\colin\source\repos\WinFormsApp1\rune_maker\bin\publish\rune_maker.exe

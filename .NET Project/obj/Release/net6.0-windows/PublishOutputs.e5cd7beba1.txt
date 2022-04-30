@@ -1,0 +1,5 @@
+C:\Users\colin\source\repos\WinFormsApp1\rune_maker\bin\Release\net6.0-windows\publish\rune_maker.exe
+C:\Users\colin\source\repos\WinFormsApp1\rune_maker\bin\Release\net6.0-windows\publish\rune_maker.dll
+C:\Users\colin\source\repos\WinFormsApp1\rune_maker\bin\Release\net6.0-windows\publish\rune_maker.deps.json
+C:\Users\colin\source\repos\WinFormsApp1\rune_maker\bin\Release\net6.0-windows\publish\rune_maker.runtimeconfig.json
+C:\Users\colin\source\repos\WinFormsApp1\rune_maker\bin\Release\net6.0-windows\publish\rune_maker.pdb
