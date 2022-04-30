@@ -8,15 +8,15 @@ This is my first solo project. It is an application that allows you to create yo
 
 <img src="Screenshots/global.png"
      alt="global_prev1"
-     style="width: 50%;" />
+     style="width: 100%;" />
      
 <img src="Screenshots/global2.png"
      alt="global_prev2"
-     style="width: 50%;" />
+     style="width: 100%;" />
 
 <img src="Screenshots/pagesList.png"
      alt="pageList"
-     style="width: 50%;" />
+     style="width: 25%;" />
 
 ### Main Files
 
