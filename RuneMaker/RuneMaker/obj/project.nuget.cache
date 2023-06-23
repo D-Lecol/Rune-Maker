@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "s8yamwrzy3nroUNcUCN1uVCi3bbZxMXmfxCSqgBndAGnYf/u7rAbeHz5NParEH6kZqIf9miAGkXmiA09hbqwKg==",
+  "success": false,
+  "projectFilePath": "/Users/colin/workspaces/Rune-Maker/RuneMaker/RuneMaker/RuneMaker.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1012",
+      "level": "Error",
+      "message": "Platform version is not present for one or more target frameworks, even though they have specified a platform: net7.0-ios, net7.0-maccatalyst"
+    }
+  ]
+}
